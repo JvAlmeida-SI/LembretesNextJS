@@ -1,0 +1,55 @@
+.reminder-app {
+  @apply font-sans p-20 max-w-screen-md mx-auto bg-gray-100 rounded-lg shadow-md;
+}
+
+.title {
+  @apply text-3xl mb-10 text-gray-700 text-center;
+}
+
+.form {
+  @apply flex flex-col mb-10;
+}
+
+.form label {
+  @apply flex flex-col mb-4 text-xl text-gray-700;
+}
+
+.form input {
+  @apply p-2 text-lg rounded-md border border-gray-300;
+}
+
+.add-button {
+  @apply p-2 text-lg bg-green-800 text-white rounded-md cursor-pointer mt-2;
+}
+
+.add-button:hover {
+  @apply bg-green-400;
+}
+
+.reminder-list {
+  @apply list-none p-0;
+}
+
+.reminder-item {
+  @apply p-2 mb-2 bg-white rounded-md shadow-md text-lg text-gray-700;
+}
+
+.reminder-group {
+  @apply mb-10;
+}
+
+.reminder-group h3 {
+  @apply text-2xl text-blue-500 mb-4;
+}
+
+.error {
+  @apply text-red-500 mb-4;
+}
+
+.delete-button {
+  @apply bg-red-600 text-white rounded-md ml-4 cursor-pointer;
+}
+
+.delete-button:hover {
+  @apply bg-red-400;
+}

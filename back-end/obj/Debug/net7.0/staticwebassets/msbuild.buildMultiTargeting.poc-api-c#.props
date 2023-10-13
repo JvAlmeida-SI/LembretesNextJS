@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/poc-api-c#.props" />
+</Project>

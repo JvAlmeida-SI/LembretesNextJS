@@ -1,0 +1,175 @@
+/home/daniel/Área de Trabalho/git/meus-projetos/aprendendo-c#/poc-api-c#/bin/Debug/net7.0/appsettings.Development.json
+/home/daniel/Área de Trabalho/git/meus-projetos/aprendendo-c#/poc-api-c#/bin/Debug/net7.0/appsettings.json
+/home/daniel/Área de Trabalho/git/meus-projetos/aprendendo-c#/poc-api-c#/bin/Debug/net7.0/poc-api-c#
+/home/daniel/Área de Trabalho/git/meus-projetos/aprendendo-c#/poc-api-c#/bin/Debug/net7.0/poc-api-c#.deps.json
+/home/daniel/Área de Trabalho/git/meus-projetos/aprendendo-c#/poc-api-c#/bin/Debug/net7.0/poc-api-c#.runtimeconfig.json
+/home/daniel/Área de Trabalho/git/meus-projetos/aprendendo-c#/poc-api-c#/bin/Debug/net7.0/poc-api-c#.dll
+/home/daniel/Área de Trabalho/git/meus-projetos/aprendendo-c#/poc-api-c#/bin/Debug/net7.0/poc-api-c#.pdb
+/home/daniel/Área de Trabalho/git/meus-projetos/aprendendo-c#/poc-api-c#/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/home/daniel/Área de Trabalho/git/meus-projetos/aprendendo-c#/poc-api-c#/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/home/daniel/Área de Trabalho/git/meus-projetos/aprendendo-c#/poc-api-c#/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/daniel/Área de Trabalho/git/meus-projetos/aprendendo-c#/poc-api-c#/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/daniel/Área de Trabalho/git/meus-projetos/aprendendo-c#/poc-api-c#/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/daniel/Área de Trabalho/git/meus-projetos/aprendendo-c#/poc-api-c#/obj/Debug/net7.0/poc-api-c#.csproj.AssemblyReference.cache
+/home/daniel/Área de Trabalho/git/meus-projetos/aprendendo-c#/poc-api-c#/obj/Debug/net7.0/poc-api-c#.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniel/Área de Trabalho/git/meus-projetos/aprendendo-c#/poc-api-c#/obj/Debug/net7.0/poc-api-c#.AssemblyInfoInputs.cache
+/home/daniel/Área de Trabalho/git/meus-projetos/aprendendo-c#/poc-api-c#/obj/Debug/net7.0/poc-api-c#.AssemblyInfo.cs
+/home/daniel/Área de Trabalho/git/meus-projetos/aprendendo-c#/poc-api-c#/obj/Debug/net7.0/poc-api-c#.csproj.CoreCompileInputs.cache
+/home/daniel/Área de Trabalho/git/meus-projetos/aprendendo-c#/poc-api-c#/obj/Debug/net7.0/poc-api-c#.MvcApplicationPartsAssemblyInfo.cs
+/home/daniel/Área de Trabalho/git/meus-projetos/aprendendo-c#/poc-api-c#/obj/Debug/net7.0/poc-api-c#.MvcApplicationPartsAssemblyInfo.cache
+/home/daniel/Área de Trabalho/git/meus-projetos/aprendendo-c#/poc-api-c#/obj/Debug/net7.0/staticwebassets/msbuild.poc-api-c#.Microsoft.AspNetCore.StaticWebAssets.props
+/home/daniel/Área de Trabalho/git/meus-projetos/aprendendo-c#/poc-api-c#/obj/Debug/net7.0/staticwebassets/msbuild.build.poc-api-c#.props
+/home/daniel/Área de Trabalho/git/meus-projetos/aprendendo-c#/poc-api-c#/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.poc-api-c#.props
+/home/daniel/Área de Trabalho/git/meus-projetos/aprendendo-c#/poc-api-c#/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.poc-api-c#.props
+/home/daniel/Área de Trabalho/git/meus-projetos/aprendendo-c#/poc-api-c#/obj/Debug/net7.0/staticwebassets.pack.json
+/home/daniel/Área de Trabalho/git/meus-projetos/aprendendo-c#/poc-api-c#/obj/Debug/net7.0/staticwebassets.build.json
+/home/daniel/Área de Trabalho/git/meus-projetos/aprendendo-c#/poc-api-c#/obj/Debug/net7.0/staticwebassets.development.json
+/home/daniel/Área de Trabalho/git/meus-projetos/aprendendo-c#/poc-api-c#/obj/Debug/net7.0/scopedcss/bundle/poc-api-c#.styles.css
+/home/daniel/Área de Trabalho/git/meus-projetos/aprendendo-c#/poc-api-c#/obj/Debug/net7.0/poc-api-c#.csproj.CopyComplete
+/home/daniel/Área de Trabalho/git/meus-projetos/aprendendo-c#/poc-api-c#/obj/Debug/net7.0/poc-api-c#.dll
+/home/daniel/Área de Trabalho/git/meus-projetos/aprendendo-c#/poc-api-c#/obj/Debug/net7.0/refint/poc-api-c#.dll
+/home/daniel/Área de Trabalho/git/meus-projetos/aprendendo-c#/poc-api-c#/obj/Debug/net7.0/poc-api-c#.pdb
+/home/daniel/Área de Trabalho/git/meus-projetos/aprendendo-c#/poc-api-c#/obj/Debug/net7.0/poc-api-c#.genruntimeconfig.cache
+/home/daniel/Área de Trabalho/git/meus-projetos/aprendendo-c#/poc-api-c#/obj/Debug/net7.0/ref/poc-api-c#.dll
+/home/daniel/Área de Trabalho/git/meus-projetos/aprendendo-c#/poc-api-c#/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/daniel/Área de Trabalho/git/meus-projetos/aprendendo-c#/poc-api-c#/bin/Debug/net7.0/data.json
+/home/joao/Documentos/Teste de Estágio DTI/aprendendo-c#/poc-api-c#/bin/Debug/net7.0/appsettings.Development.json
+/home/joao/Documentos/Teste de Estágio DTI/aprendendo-c#/poc-api-c#/bin/Debug/net7.0/appsettings.json
+/home/joao/Documentos/Teste de Estágio DTI/aprendendo-c#/poc-api-c#/bin/Debug/net7.0/data.json
+/home/joao/Documentos/Teste de Estágio DTI/aprendendo-c#/poc-api-c#/bin/Debug/net7.0/poc-api-c#
+/home/joao/Documentos/Teste de Estágio DTI/aprendendo-c#/poc-api-c#/bin/Debug/net7.0/poc-api-c#.deps.json
+/home/joao/Documentos/Teste de Estágio DTI/aprendendo-c#/poc-api-c#/bin/Debug/net7.0/poc-api-c#.runtimeconfig.json
+/home/joao/Documentos/Teste de Estágio DTI/aprendendo-c#/poc-api-c#/bin/Debug/net7.0/poc-api-c#.dll
+/home/joao/Documentos/Teste de Estágio DTI/aprendendo-c#/poc-api-c#/bin/Debug/net7.0/poc-api-c#.pdb
+/home/joao/Documentos/Teste de Estágio DTI/aprendendo-c#/poc-api-c#/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/home/joao/Documentos/Teste de Estágio DTI/aprendendo-c#/poc-api-c#/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/home/joao/Documentos/Teste de Estágio DTI/aprendendo-c#/poc-api-c#/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/joao/Documentos/Teste de Estágio DTI/aprendendo-c#/poc-api-c#/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/joao/Documentos/Teste de Estágio DTI/aprendendo-c#/poc-api-c#/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/joao/Documentos/Teste de Estágio DTI/aprendendo-c#/poc-api-c#/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/joao/Documentos/Teste de Estágio DTI/aprendendo-c#/poc-api-c#/obj/Debug/net7.0/poc-api-c#.csproj.AssemblyReference.cache
+/home/joao/Documentos/Teste de Estágio DTI/aprendendo-c#/poc-api-c#/obj/Debug/net7.0/poc-api-c#.GeneratedMSBuildEditorConfig.editorconfig
+/home/joao/Documentos/Teste de Estágio DTI/aprendendo-c#/poc-api-c#/obj/Debug/net7.0/poc-api-c#.AssemblyInfoInputs.cache
+/home/joao/Documentos/Teste de Estágio DTI/aprendendo-c#/poc-api-c#/obj/Debug/net7.0/poc-api-c#.AssemblyInfo.cs
+/home/joao/Documentos/Teste de Estágio DTI/aprendendo-c#/poc-api-c#/obj/Debug/net7.0/poc-api-c#.csproj.CoreCompileInputs.cache
+/home/joao/Documentos/Teste de Estágio DTI/aprendendo-c#/poc-api-c#/obj/Debug/net7.0/poc-api-c#.MvcApplicationPartsAssemblyInfo.cs
+/home/joao/Documentos/Teste de Estágio DTI/aprendendo-c#/poc-api-c#/obj/Debug/net7.0/poc-api-c#.MvcApplicationPartsAssemblyInfo.cache
+/home/joao/Documentos/Teste de Estágio DTI/aprendendo-c#/poc-api-c#/obj/Debug/net7.0/staticwebassets/msbuild.poc-api-c#.Microsoft.AspNetCore.StaticWebAssets.props
+/home/joao/Documentos/Teste de Estágio DTI/aprendendo-c#/poc-api-c#/obj/Debug/net7.0/staticwebassets/msbuild.build.poc-api-c#.props
+/home/joao/Documentos/Teste de Estágio DTI/aprendendo-c#/poc-api-c#/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.poc-api-c#.props
+/home/joao/Documentos/Teste de Estágio DTI/aprendendo-c#/poc-api-c#/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.poc-api-c#.props
+/home/joao/Documentos/Teste de Estágio DTI/aprendendo-c#/poc-api-c#/obj/Debug/net7.0/staticwebassets.pack.json
+/home/joao/Documentos/Teste de Estágio DTI/aprendendo-c#/poc-api-c#/obj/Debug/net7.0/staticwebassets.build.json
+/home/joao/Documentos/Teste de Estágio DTI/aprendendo-c#/poc-api-c#/obj/Debug/net7.0/staticwebassets.development.json
+/home/joao/Documentos/Teste de Estágio DTI/aprendendo-c#/poc-api-c#/obj/Debug/net7.0/scopedcss/bundle/poc-api-c#.styles.css
+/home/joao/Documentos/Teste de Estágio DTI/aprendendo-c#/poc-api-c#/obj/Debug/net7.0/poc-api-c#.csproj.CopyComplete
+/home/joao/Documentos/Teste de Estágio DTI/aprendendo-c#/poc-api-c#/obj/Debug/net7.0/poc-api-c#.dll
+/home/joao/Documentos/Teste de Estágio DTI/aprendendo-c#/poc-api-c#/obj/Debug/net7.0/refint/poc-api-c#.dll
+/home/joao/Documentos/Teste de Estágio DTI/aprendendo-c#/poc-api-c#/obj/Debug/net7.0/poc-api-c#.pdb
+/home/joao/Documentos/Teste de Estágio DTI/aprendendo-c#/poc-api-c#/obj/Debug/net7.0/poc-api-c#.genruntimeconfig.cache
+/home/joao/Documentos/Teste de Estágio DTI/aprendendo-c#/poc-api-c#/obj/Debug/net7.0/ref/poc-api-c#.dll
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/poc-api-c#/bin/Debug/net7.0/appsettings.Development.json
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/poc-api-c#/bin/Debug/net7.0/appsettings.json
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/poc-api-c#/bin/Debug/net7.0/data.json
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/poc-api-c#/bin/Debug/net7.0/poc-api-c#
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/poc-api-c#/bin/Debug/net7.0/poc-api-c#.deps.json
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/poc-api-c#/bin/Debug/net7.0/poc-api-c#.runtimeconfig.json
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/poc-api-c#/bin/Debug/net7.0/poc-api-c#.dll
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/poc-api-c#/bin/Debug/net7.0/poc-api-c#.pdb
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/poc-api-c#/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/poc-api-c#/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/poc-api-c#/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/poc-api-c#/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/poc-api-c#/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/poc-api-c#/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/poc-api-c#/obj/Debug/net7.0/poc-api-c#.csproj.AssemblyReference.cache
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/poc-api-c#/obj/Debug/net7.0/poc-api-c#.GeneratedMSBuildEditorConfig.editorconfig
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/poc-api-c#/obj/Debug/net7.0/poc-api-c#.AssemblyInfoInputs.cache
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/poc-api-c#/obj/Debug/net7.0/poc-api-c#.AssemblyInfo.cs
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/poc-api-c#/obj/Debug/net7.0/poc-api-c#.csproj.CoreCompileInputs.cache
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/poc-api-c#/obj/Debug/net7.0/poc-api-c#.MvcApplicationPartsAssemblyInfo.cs
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/poc-api-c#/obj/Debug/net7.0/poc-api-c#.MvcApplicationPartsAssemblyInfo.cache
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/poc-api-c#/obj/Debug/net7.0/staticwebassets/msbuild.poc-api-c#.Microsoft.AspNetCore.StaticWebAssets.props
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/poc-api-c#/obj/Debug/net7.0/staticwebassets/msbuild.build.poc-api-c#.props
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/poc-api-c#/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.poc-api-c#.props
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/poc-api-c#/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.poc-api-c#.props
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/poc-api-c#/obj/Debug/net7.0/staticwebassets.pack.json
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/poc-api-c#/obj/Debug/net7.0/staticwebassets.build.json
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/poc-api-c#/obj/Debug/net7.0/staticwebassets.development.json
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/poc-api-c#/obj/Debug/net7.0/scopedcss/bundle/poc-api-c#.styles.css
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/poc-api-c#/obj/Debug/net7.0/poc-api-c#.csproj.CopyComplete
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/poc-api-c#/obj/Debug/net7.0/poc-api-c#.dll
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/poc-api-c#/obj/Debug/net7.0/refint/poc-api-c#.dll
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/poc-api-c#/obj/Debug/net7.0/poc-api-c#.pdb
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/poc-api-c#/obj/Debug/net7.0/poc-api-c#.genruntimeconfig.cache
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/poc-api-c#/obj/Debug/net7.0/ref/poc-api-c#.dll
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/back-end/bin/Debug/net7.0/appsettings.Development.json
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/back-end/bin/Debug/net7.0/appsettings.json
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/back-end/bin/Debug/net7.0/data.json
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/back-end/bin/Debug/net7.0/poc-api-c#
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/back-end/bin/Debug/net7.0/poc-api-c#.deps.json
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/back-end/bin/Debug/net7.0/poc-api-c#.runtimeconfig.json
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/back-end/bin/Debug/net7.0/poc-api-c#.dll
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/back-end/bin/Debug/net7.0/poc-api-c#.pdb
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/back-end/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/back-end/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/back-end/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/back-end/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/back-end/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/back-end/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/back-end/obj/Debug/net7.0/poc-api-c#.csproj.AssemblyReference.cache
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/back-end/obj/Debug/net7.0/poc-api-c#.GeneratedMSBuildEditorConfig.editorconfig
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/back-end/obj/Debug/net7.0/poc-api-c#.AssemblyInfoInputs.cache
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/back-end/obj/Debug/net7.0/poc-api-c#.AssemblyInfo.cs
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/back-end/obj/Debug/net7.0/poc-api-c#.csproj.CoreCompileInputs.cache
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/back-end/obj/Debug/net7.0/poc-api-c#.MvcApplicationPartsAssemblyInfo.cs
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/back-end/obj/Debug/net7.0/poc-api-c#.MvcApplicationPartsAssemblyInfo.cache
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/back-end/obj/Debug/net7.0/staticwebassets/msbuild.poc-api-c#.Microsoft.AspNetCore.StaticWebAssets.props
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/back-end/obj/Debug/net7.0/staticwebassets/msbuild.build.poc-api-c#.props
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/back-end/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.poc-api-c#.props
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/back-end/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.poc-api-c#.props
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/back-end/obj/Debug/net7.0/staticwebassets.pack.json
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/back-end/obj/Debug/net7.0/staticwebassets.build.json
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/back-end/obj/Debug/net7.0/staticwebassets.development.json
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/back-end/obj/Debug/net7.0/scopedcss/bundle/poc-api-c#.styles.css
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/back-end/obj/Debug/net7.0/poc-api-c#.csproj.CopyComplete
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/back-end/obj/Debug/net7.0/poc-api-c#.dll
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/back-end/obj/Debug/net7.0/refint/poc-api-c#.dll
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/back-end/obj/Debug/net7.0/poc-api-c#.pdb
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/back-end/obj/Debug/net7.0/poc-api-c#.genruntimeconfig.cache
+/home/joao/Documentos/VS Code/TesteEstágioNextJS/TesteSistemaDeLembretes/back-end/obj/Debug/net7.0/ref/poc-api-c#.dll
+/home/joao/Documentos/VS Code/LembretesNextJS/back-end/bin/Debug/net7.0/appsettings.Development.json
+/home/joao/Documentos/VS Code/LembretesNextJS/back-end/bin/Debug/net7.0/appsettings.json
+/home/joao/Documentos/VS Code/LembretesNextJS/back-end/bin/Debug/net7.0/data.json
+/home/joao/Documentos/VS Code/LembretesNextJS/back-end/bin/Debug/net7.0/poc-api-c#
+/home/joao/Documentos/VS Code/LembretesNextJS/back-end/bin/Debug/net7.0/poc-api-c#.deps.json
+/home/joao/Documentos/VS Code/LembretesNextJS/back-end/bin/Debug/net7.0/poc-api-c#.runtimeconfig.json
+/home/joao/Documentos/VS Code/LembretesNextJS/back-end/bin/Debug/net7.0/poc-api-c#.dll
+/home/joao/Documentos/VS Code/LembretesNextJS/back-end/bin/Debug/net7.0/poc-api-c#.pdb
+/home/joao/Documentos/VS Code/LembretesNextJS/back-end/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/home/joao/Documentos/VS Code/LembretesNextJS/back-end/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/home/joao/Documentos/VS Code/LembretesNextJS/back-end/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/joao/Documentos/VS Code/LembretesNextJS/back-end/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/joao/Documentos/VS Code/LembretesNextJS/back-end/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/joao/Documentos/VS Code/LembretesNextJS/back-end/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/joao/Documentos/VS Code/LembretesNextJS/back-end/obj/Debug/net7.0/poc-api-c#.csproj.AssemblyReference.cache
+/home/joao/Documentos/VS Code/LembretesNextJS/back-end/obj/Debug/net7.0/poc-api-c#.GeneratedMSBuildEditorConfig.editorconfig
+/home/joao/Documentos/VS Code/LembretesNextJS/back-end/obj/Debug/net7.0/poc-api-c#.AssemblyInfoInputs.cache
+/home/joao/Documentos/VS Code/LembretesNextJS/back-end/obj/Debug/net7.0/poc-api-c#.AssemblyInfo.cs
+/home/joao/Documentos/VS Code/LembretesNextJS/back-end/obj/Debug/net7.0/poc-api-c#.csproj.CoreCompileInputs.cache
+/home/joao/Documentos/VS Code/LembretesNextJS/back-end/obj/Debug/net7.0/poc-api-c#.MvcApplicationPartsAssemblyInfo.cs
+/home/joao/Documentos/VS Code/LembretesNextJS/back-end/obj/Debug/net7.0/poc-api-c#.MvcApplicationPartsAssemblyInfo.cache
+/home/joao/Documentos/VS Code/LembretesNextJS/back-end/obj/Debug/net7.0/staticwebassets/msbuild.poc-api-c#.Microsoft.AspNetCore.StaticWebAssets.props
+/home/joao/Documentos/VS Code/LembretesNextJS/back-end/obj/Debug/net7.0/staticwebassets/msbuild.build.poc-api-c#.props
+/home/joao/Documentos/VS Code/LembretesNextJS/back-end/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.poc-api-c#.props
+/home/joao/Documentos/VS Code/LembretesNextJS/back-end/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.poc-api-c#.props
+/home/joao/Documentos/VS Code/LembretesNextJS/back-end/obj/Debug/net7.0/staticwebassets.pack.json
+/home/joao/Documentos/VS Code/LembretesNextJS/back-end/obj/Debug/net7.0/staticwebassets.build.json
+/home/joao/Documentos/VS Code/LembretesNextJS/back-end/obj/Debug/net7.0/staticwebassets.development.json
+/home/joao/Documentos/VS Code/LembretesNextJS/back-end/obj/Debug/net7.0/scopedcss/bundle/poc-api-c#.styles.css
+/home/joao/Documentos/VS Code/LembretesNextJS/back-end/obj/Debug/net7.0/poc-api-c#.csproj.CopyComplete
+/home/joao/Documentos/VS Code/LembretesNextJS/back-end/obj/Debug/net7.0/poc-api-c#.dll
+/home/joao/Documentos/VS Code/LembretesNextJS/back-end/obj/Debug/net7.0/refint/poc-api-c#.dll
+/home/joao/Documentos/VS Code/LembretesNextJS/back-end/obj/Debug/net7.0/poc-api-c#.pdb
+/home/joao/Documentos/VS Code/LembretesNextJS/back-end/obj/Debug/net7.0/poc-api-c#.genruntimeconfig.cache
+/home/joao/Documentos/VS Code/LembretesNextJS/back-end/obj/Debug/net7.0/ref/poc-api-c#.dll

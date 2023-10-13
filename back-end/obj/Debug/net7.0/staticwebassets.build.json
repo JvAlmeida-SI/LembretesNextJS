@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "h0d7UgLIez5vufsXYsLf9CQegZxvGjijjP0Y4z9T/eA=",
+  "Source": "poc-api-c#",
+  "BasePath": "_content/poc-api-c#",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
